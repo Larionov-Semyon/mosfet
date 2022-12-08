@@ -1,0 +1,5 @@
+BSIM3V3.1 Parameter Check
+Model = tsmc018nfet
+W = 2e-07, L = 3e-07
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
